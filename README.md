@@ -13,6 +13,7 @@ Useful articles, blogs and books for anyone looking to apply for a design job in
 - https://www.gov.uk/service-manual/design
 - How designers prototype at GDS https://designnotes.blog.gov.uk/2014/10/13/how-designers-prototype-at-gds/
 - The actual problems to be solved https://docs.google.com/presentation/d/1fclyNbuiK7EicRkmcF7fO4PCQdQ8PKwFiWYnFtqOwTY/edit#slide=id.g1b2b1df49e_0_493
+- The different types of design in government: https://designnotes.blog.gov.uk/2016/04/22/the-different-types-of-design-in-government/
 
 ## Recommended Books
 

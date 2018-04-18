@@ -15,6 +15,10 @@ Useful articles, blogs and books for anyone looking to apply for a design job in
 - The actual problems to be solved https://docs.google.com/presentation/d/1fclyNbuiK7EicRkmcF7fO4PCQdQ8PKwFiWYnFtqOwTY/edit#slide=id.g1b2b1df49e_0_493
 - The different types of design in government: https://designnotes.blog.gov.uk/2016/04/22/the-different-types-of-design-in-government/
 
+## Other recommended design articles
+- Key accessibility design principles https://medium.com/salesforce-ux/7-things-every-designer-needs-to-know-about-accessibility-64f105f0881b
+- Form design http://www.formsthatwork.com/
+
 ## Recommended Books
 
 - The essentials of interaction design 
@@ -25,8 +29,14 @@ Useful articles, blogs and books for anyone looking to apply for a design job in
 - About Face: The Essentials of Interaction Design 
 - Interviewing for research https://trvrs.co/book
 - Any book from here is usually awesome: https://abookapart.com/
+- The Sprint Book
+- How to Run a Government: So That Citizens Benefit and Taxpayers Don't Go Crazy
+https://www.goodreads.com/book/show/25204870-how-to-run-a-government
+A book about policy delivery within government - very interesting
+- Drive: The Surprising Truth About What Motivates Us
+https://www.goodreads.com/book/show/6452796-drive?from_search=true
 
-## Useful Blogs
+## Useful Blogs for staying up to date
 
 - https://hodigital.blog.gov.uk/ 
 - https://gds.blog.gov.uk/

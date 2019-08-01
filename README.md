@@ -1,23 +1,35 @@
 # New designers resources
 
-Useful articles, blogs and books for anyone looking to apply for a design job in government.
+Useful articles, blogs and books I regularly point new designers in goverment to.
 
-## Good articles about applying for design jobs
+## Applying for design jobs
 
-- https://medium.com/designnotes/make-an-impression-the-right-way-a67416d5f347 (written by one of our designers)
-- https://medium.com/@loft27design/10-cv-tips-for-junior-graphic-designers-b5872c82cc1f#.os58tq9e7 (written by one of the Heads of Design at GDS)
+- Making an impression the right way: https://medium.com/designnotes/make-an-impression-the-right-way-a67416d5f347 (written by one of our designers)
+- CV tips for junior designers: https://medium.com/@loft27design/10-cv-tips-for-junior-graphic-designers-b5872c82cc1f#.os58tq9e7 
 
-## Designing in government
+## Design primer
 
-- https://www.gov.uk/service-manual
-- https://www.gov.uk/service-manual/design
-- How designers prototype at GDS https://designnotes.blog.gov.uk/2014/10/13/how-designers-prototype-at-gds/
-- The actual problems to be solved https://docs.google.com/presentation/d/1fclyNbuiK7EicRkmcF7fO4PCQdQ8PKwFiWYnFtqOwTY/edit#slide=id.g1b2b1df49e_0_493
-- The different types of design in government: https://designnotes.blog.gov.uk/2016/04/22/the-different-types-of-design-in-government/
+- What is this thing called design: https://www.subtraction.com/2018/07/17/what-is-this-thing-called-design/
 
-## Other recommended design articles
-- Key accessibility design principles https://medium.com/salesforce-ux/7-things-every-designer-needs-to-know-about-accessibility-64f105f0881b
+## Design process
+- Hypothesis driven design: https://medium.com/leading-service-design/everything-is-hypothesis-driven-design-1986a4638285
+- Design crits: https://designnotes.blog.gov.uk/2017/11/27/using-design-crits-to-improve-collaboration/ and https://docs.google.com/document/d/1h2iwS1AVI7a9k-dK30Xgk2-QHZR1N_fJK8zGNO454VA/edit?usp=sharing
+- Key accessibility design principles: https://medium.com/salesforce-ux/7-things-every-designer-needs-to-know-about-accessibility-64f105f0881b
 - Form design http://www.formsthatwork.com/
+
+## Design in government
+
+- UK Gov Service Manual: https://www.gov.uk/service-manual
+- Design section of Service Manual: https://www.gov.uk/service-manual/design
+- How designers prototype at GDS https://designnotes.blog.gov.uk/2014/10/13/how-designers-prototype-at-gds/
+- Solving the right problems in government:  https://docs.google.com/presentation/d/1fclyNbuiK7EicRkmcF7fO4PCQdQ8PKwFiWYnFtqOwTY/edit#slide=id.g1b2b1df49e_0_493
+- The different types of design in government: https://designnotes.blog.gov.uk/2016/04/22/the-different-types-of-design-in-government/
+- Prototypinig in government: https://designnotes.blog.gov.uk/2014/10/13/how-designers-prototype-at-gds/
+- Using the transport font: https://gds.blog.gov.uk/2012/07/05/a-few-notes-on-typography/
+
+## Tools
+- Slack: http://randsinrepose.com/archives/how-i-slack/ 
+- Sketch: https://loremipsum.ueno.co/dear-ueno-what-are-some-of-your-favorite-sketch-tips-and-tricks-41488313f7ee and https://www.sketchapp.com/docs/
 
 ## Recommended Books
 
@@ -35,6 +47,7 @@ https://www.goodreads.com/book/show/25204870-how-to-run-a-government
 A book about policy delivery within government - very interesting
 - Drive: The Surprising Truth About What Motivates Us
 https://www.goodreads.com/book/show/6452796-drive?from_search=true
+- Switch: How to change things when change is hard
 
 ## Useful Blogs for staying up to date
 

@@ -4,7 +4,7 @@ Useful articles, blogs and books I regularly point new designers in goverment to
 
 ## Applying for design jobs
 
-- Making an impression the right way: https://medium.com/designnotes/make-an-impression-the-right-way-a67416d5f347 (written by one of our designers)
+- Making an impression the right way: https://medium.com/designnotes/make-an-impression-the-right-way-a67416d5f347
 - CV tips for junior designers: https://medium.com/@loft27design/10-cv-tips-for-junior-graphic-designers-b5872c82cc1f#.os58tq9e7 
 
 ## Design primer
